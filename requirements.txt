@@ -1,0 +1,4 @@
+beautifulsoup4
+json
+requests
+fake_headers
